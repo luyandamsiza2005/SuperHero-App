@@ -1,0 +1,56 @@
+html{
+    background-color: black;
+}
+#avengers-text h3
+{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.gallery img{
+    width: 100%;
+}
+h2{
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 60px;
+}
+h4{
+    font-family:fantasy;
+    color: chartreuse;
+    font-size: 30px
+}
+h3{
+    color: white;
+    font-size: 50px;
+}
+p{
+    color: white;
+    font-size: 20;
+}
+#menu-bar{
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: Helvetica, sans-serif;
+    padding: 30px;
+}
+#menu-bar a{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
+#menu-bar a:hover{
+    background-color: aqua;
+    color: white;
+}
+#about-text p{
+    color: white;
+    font-size: 30px;
+}
+#contact-text p{
+    color: white;
+    font-size: 30px;
+}
